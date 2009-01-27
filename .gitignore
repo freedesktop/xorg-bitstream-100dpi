@@ -9,3 +9,6 @@ configure
 install-sh
 missing
 *~
+font-bitstream-100dpi-*.tar.*
+ChangeLog
+tags
